@@ -1,0 +1,9 @@
+{
+	"name": "databrick-course-adf2",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "84c7e736-4dcf-4b4e-90ea-f3ac94437fa2",
+		"tenantId": "63f6134e-4a52-4145-8205-a2c28b6f319a"
+	}
+}

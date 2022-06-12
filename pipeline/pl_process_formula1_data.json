@@ -35,7 +35,7 @@
 				"userProperties": [],
 				"typeProperties": {
 					"pipeline": {
-						"referenceName": "pl1_transform_formula1_data_copy1",
+						"referenceName": "pl1_transform_formula1_data",
 						"type": "PipelineReference"
 					},
 					"waitOnCompletion": true,

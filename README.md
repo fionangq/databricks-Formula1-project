@@ -47,8 +47,7 @@ ADF is scheduled to run every Sunday night at 10 PM and designed to skip the exe
 5. Set up Azure Data Factory account and create Linked Service to ADLS and Azure Databricks.
 
 ETL is run by Azure Databricks and executed by Data Factory.
-1. Import notebooks to Databricks and run interactively [`etl_notebooks`]([etl-notebooks/Ingestio](https://github.com/fionangq/databricks-Formula1-project/tree/main/etl_notebooks/).
+1. Import notebooks to Databricks and run interactively [`etl_notebooks`](https://github.com/fionangq/databricks-Formula1-project/tree/main/etl_notebooks/).
 2. Import existing Data Factory resources to repository
 3. Debug ADF pipelines
-
 

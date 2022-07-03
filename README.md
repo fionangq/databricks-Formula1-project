@@ -1,6 +1,6 @@
 # Formula 1 ETL pipeline project
 
-This is an ETL pipeline to ingest Formula 1 motor racing data, transform and load it to our data warehouse. The pipeline infrastructure is built using Azure Databricks and Spark core. 
+This is an ETL pipeline to ingest Formula 1 motor racing data, transform and load it to our data warehouse. The pipeline infrastructure is built using Azure Data Factory, Azure Data Lake, Databricks and Spark core. 
 
 ## Architecture diagram
 ![Untitled drawio (1)](https://user-images.githubusercontent.com/107358349/173245389-06a3bed0-573c-4139-b451-0966055d464b.png)

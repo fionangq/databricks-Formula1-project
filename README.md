@@ -30,8 +30,8 @@ ADF is scheduled to run every Sunday at 10 PM and is designed to skip the execut
 #### Example runtime
 
 - Creating a dimensional model from scratch using data from Mar 22 to Mar 28, 2021.
-- Driver: Single node Standard_D4d_v4
-- Configuration: managed by Databricks
+- Driver: Single node Standard_D4d_v4.
+- Configuration: managed by Databricks.
 
 | Step| Runtime|
 |--|--|
@@ -48,6 +48,6 @@ ADF is scheduled to run every Sunday at 10 PM and is designed to skip the execut
 
 ETL is run by Azure Databricks and executed by Data Factory.
 1. Import notebooks to Databricks and run interactively [`etl_notebooks`](https://github.com/fionangq/databricks-Formula1-project/tree/main/etl_notebooks/).
-2. Import existing Data Factory resources to repository
-3. Debug ADF pipelines
+2. Import existing Data Factory resources to repository.
+3. Debug ADF pipelines.
 
